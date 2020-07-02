@@ -1,0 +1,91 @@
+body{
+    margin :0px ;
+    padding :0px ;
+}
+.header{
+ 
+ background-color:#000; 
+ color:#fff; 
+ border-color: #080808; 
+ min-height: 50px; 
+ border: 1px solid transparent;
+}
+
+
+   a{
+    text-decoration: none;
+    background-color :transparent ;
+    padding :0px;
+    margin :0px ;
+    display:block ;
+    color :#fff;
+}
+
+.content{
+    margin-bottom:10px ;
+    min-height: 600px;
+
+}
+
+.shopnow{
+    position: relative; 
+    padding-top: 6%; 
+    padding-bottom: 6%; 
+    overflow:hidden; 
+    margin-bottom: 12%; 
+    background-color: rgba(0, 0, 0, 0.7); 
+    max-width: 660px;
+
+   
+}
+.image_banner{
+    background: url(intro-bg_1.jpg) no-repeat center;
+    padding :5% ;
+    margin-bottom: 20px; 
+    text-align: center; 
+    color: #f8f8f8;
+    position:relative ;
+   padding-left :20% ;
+
+
+}
+.button{
+    color: #fff; 
+    background-color: #c9302c; 
+    border-color: #ac2925; 
+    box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125); 
+    padding: 10px 16px;
+    font-size: 18px; 
+    border-radius: 6px;
+}
+.container{
+    width :100% ;
+    display :block ;
+    
+    overflow :hidden ;
+}
+.item{
+    float :left ;
+    width :200px ; 
+    margin-left:10% ;
+    padding :0 ;
+    border :1px solid ;
+   position :relative ;
+   
+
+}
+
+.caption{
+    color:#000; 
+    padding:0px 10px 10px; 
+    font-weight: bold; 
+    text-align: center;
+}
+.footer{
+    margin-top:20px ;
+    background-color :#000 ;
+    color:#fff; 
+    font-size:14px;
+    text-align: center;
+    padding: 20px ;
+}
